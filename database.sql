@@ -1,0 +1,28 @@
+
+CREATE DATABASE IF NOT EXISTS libraryDB;
+
+USE libraryDB;
+
+CREATE TABLE IF NOT EXISTS books (
+    BookId INT AUTO_INCREMENT PRIMARY KEY,
+    Title VARCHAR(255),
+    Author VARCHAR(255),
+    Stock INT
+);
+
+CREATE TABLE IF NOT EXISTS members (
+    MemberId INT AUTO_INCREMENT PRIMARY KEY,
+    Name VARCHAR(255)
+);
+
+CREATE TABLE IF NOT EXISTS issuedbooks (
+    IssueId INT AUTO_INCREMENT PRIMARY KEY,
+    BookId INT,
+    MemberId INT,
+    IssueDate DATETIME,
+    ReturnDate DATE NULL,
+
+    FOREIGN KEY (BookId) REFERENCES books(BookId),
+
+    FOREIGN KEY (MemberId) REFERENCES members(MemberId)
+);

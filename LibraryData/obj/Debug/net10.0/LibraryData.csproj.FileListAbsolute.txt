@@ -1,0 +1,12 @@
+A:\C#\HomeWork_02\LibraryData\bin\Debug\net10.0\LibraryData.deps.json
+A:\C#\HomeWork_02\LibraryData\bin\Debug\net10.0\LibraryData.dll
+A:\C#\HomeWork_02\LibraryData\bin\Debug\net10.0\LibraryData.pdb
+A:\C#\HomeWork_02\LibraryData\obj\Debug\net10.0\LibraryData.csproj.AssemblyReference.cache
+A:\C#\HomeWork_02\LibraryData\obj\Debug\net10.0\LibraryData.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#\HomeWork_02\LibraryData\obj\Debug\net10.0\LibraryData.AssemblyInfoInputs.cache
+A:\C#\HomeWork_02\LibraryData\obj\Debug\net10.0\LibraryData.AssemblyInfo.cs
+A:\C#\HomeWork_02\LibraryData\obj\Debug\net10.0\LibraryData.csproj.CoreCompileInputs.cache
+A:\C#\HomeWork_02\LibraryData\obj\Debug\net10.0\LibraryData.dll
+A:\C#\HomeWork_02\LibraryData\obj\Debug\net10.0\refint\LibraryData.dll
+A:\C#\HomeWork_02\LibraryData\obj\Debug\net10.0\LibraryData.pdb
+A:\C#\HomeWork_02\LibraryData\obj\Debug\net10.0\ref\LibraryData.dll
